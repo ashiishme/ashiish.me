@@ -11,7 +11,8 @@ Ashiish.me is a portfolio theme for the popular CMS ( WordPress ). The theme foc
 
 ## Screenshot
 
-![ashiish.me demo image](https://raw.githubusercontent.com/ashiishme/ashiish.me/folio-v2/screenshot.png)
+![ashiish.me preview image](https://user-images.githubusercontent.com/18111862/123550668-5d905500-d78e-11eb-9c4f-4f113df5fbaa.png)
+
 
 ## Installation
 
